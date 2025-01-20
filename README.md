@@ -1,9 +1,9 @@
-# letsinfra-faqs
-This is for your FAQS to ask any questions about DevOps, DevSecOps, Cyber Security, and Prompt Engineering (ChatGPT)
+# letsinfra-qna
+This is for your QnA to ask any questions about DevOps, DevSecOps, Cyber Security, and Prompt Engineering (ChatGPT)
 
 # How to ask questions?
 
-You can open the issue section in this repository: https://github.com/alterwriter/letsinfra-faqs/issues
+You can open the issue section in this repository: https://github.com/alterwriter/letsinfra-qna/issues
 
 Next, click **New issue** on the right side
 
